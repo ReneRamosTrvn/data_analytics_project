@@ -34,9 +34,9 @@ Y la data ya trabajada [aqui](https://github.com/ReneRamosTrvn/data_analytics_pr
 
 
 ## **Kpis**
--Aumentar en 10% los ingresos del sector en el siguiente anio
--Aumentar en 2% los accesos a internet por cada 100 hogares el proximo trimestre
--Aumentar en 10% la media de bajada en Argentina
+- Aumentar en 10% los ingresos del sector en el siguiente anio
+- Aumentar en 2% los accesos a internet por cada 100 hogares el proximo trimestre
+- Aumentar en 10% la media de bajada en Argentina
 
 ## **Tecnologias usadas en estre proyecto**
 - Python
