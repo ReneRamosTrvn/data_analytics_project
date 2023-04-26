@@ -39,7 +39,7 @@ Y la data ya trabajada [aqui](https://github.com/ReneRamosTrvn/data_analytics_pr
 -Aumentar en 10% la media de bajada en Argentina
 
 ## **Tecnologias usadas en estre proyecto**
--Python
--Pandas
--PowerBI
--Visual Studio
+- Python
+- Pandas
+- PowerBI
+- Visual Studio
