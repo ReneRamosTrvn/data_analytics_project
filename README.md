@@ -28,9 +28,9 @@ Una vez teniendo descargado PowerBI simplemente abrir el archivo [Dashboard](htt
 
 
 ## **Datasets**
-Tenemos la data justo [aqui](https://github.com/ReneRamosTrvn/data_analytics_project/tree/main/datasets)
+- Datasets [aqui](https://github.com/ReneRamosTrvn/data_analytics_project/tree/main/datasets)
 
-Y la data ya trabajada [aqui](https://github.com/ReneRamosTrvn/data_analytics_project/tree/main/clean_datasets)
+- Datasets con data trabajada [aqui](https://github.com/ReneRamosTrvn/data_analytics_project/tree/main/clean_datasets)
 
 
 ## **Kpis**
