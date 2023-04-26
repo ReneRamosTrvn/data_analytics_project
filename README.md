@@ -41,6 +41,7 @@ Una vez teniendo descargado PowerBI simplemente abrir el archivo [Dashboard](htt
 - Aumentar en 10% los ingresos del sector en el siguiente anio
 - Aumentar en 2% los accesos a internet por cada 100 hogares el proximo trimestre
 - Aumentar en 10% la media de bajada en Argentina
+- Aumentar en 10% la tecnologia wireless en Zona Rural
 
 ## **Reporte**
 Por ultimo puedes visualizar [aqui](https://github.com/ReneRamosTrvn/data_analytics_project/blob/main/Reporte.pdf) el reporte final explicando mas a fondo los KPi's y lo que se logro
